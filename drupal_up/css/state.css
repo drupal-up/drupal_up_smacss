@@ -1,0 +1,13 @@
+/*
+
+Definition:
+- Styles that deal with transient changes to a component’s appearance.
+- Changes after the user interacts with the page.
+
+
+Example:
+- Pseudo-classes, such as :hover and :checked;
+- Active element in main navigation.
+- Styles that alter appearance based on the immediate browser environment.
+
+*/

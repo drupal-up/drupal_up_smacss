@@ -1,0 +1,12 @@
+styling-experiment:
+  css:
+    base:
+      css/base.css: {}
+    layout:
+      css/layout.css: {}
+    component:
+      css/component.css: {}
+    state:
+      css/state.css: {}
+    theme:
+      css/theme.css: {}

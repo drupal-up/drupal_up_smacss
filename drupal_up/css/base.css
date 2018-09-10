@@ -1,0 +1,12 @@
+/*
+
+Definition:
+- Base rules consist of styling for HTML elements only.
+- Base rules should never include class selectors.
+- Base styles should reflect the simplest possible appearance of each element.
+
+Example:
+- CSS reset.
+- Normalize.css.
+
+*/
